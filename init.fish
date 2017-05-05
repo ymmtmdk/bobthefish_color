@@ -40,3 +40,4 @@ function bobthefish_color
   set -g __color_virtualfish              $blue[2] $grey[1] --bold
 end
 
+bobthefish_color
